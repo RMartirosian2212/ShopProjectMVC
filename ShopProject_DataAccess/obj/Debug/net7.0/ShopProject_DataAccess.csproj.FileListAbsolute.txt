@@ -1,0 +1,17 @@
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_DataAccess\obj\Debug\net7.0\ShopProject_DataAccess.csproj.AssemblyReference.cache
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_DataAccess\obj\Debug\net7.0\ShopProject_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_DataAccess\obj\Debug\net7.0\ShopProject_DataAccess.AssemblyInfoInputs.cache
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_DataAccess\obj\Debug\net7.0\ShopProject_DataAccess.AssemblyInfo.cs
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_DataAccess\obj\Debug\net7.0\ShopProject_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_DataAccess\bin\Debug\net7.0\ShopProject_DataAccess.deps.json
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_DataAccess\bin\Debug\net7.0\ShopProject_DataAccess.dll
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_DataAccess\bin\Debug\net7.0\ShopProject_DataAccess.pdb
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_DataAccess\bin\Debug\net7.0\ShopProject_Models.dll
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_DataAccess\bin\Debug\net7.0\ShopProject_Models.pdb
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_DataAccess\obj\Debug\net7.0\ShopProject_DataAccess.csproj.CopyComplete
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_DataAccess\obj\Debug\net7.0\ShopProject_DataAccess.dll
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_DataAccess\obj\Debug\net7.0\refint\ShopProject_DataAccess.dll
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_DataAccess\obj\Debug\net7.0\ShopProject_DataAccess.pdb
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_DataAccess\obj\Debug\net7.0\ref\ShopProject_DataAccess.dll
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_DataAccess\bin\Debug\net7.0\ShopProject_Utility.dll
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_DataAccess\bin\Debug\net7.0\ShopProject_Utility.pdb

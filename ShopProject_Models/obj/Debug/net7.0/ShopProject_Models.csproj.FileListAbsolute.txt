@@ -1,0 +1,12 @@
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_Models\bin\Debug\net7.0\ShopProject_Models.deps.json
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_Models\bin\Debug\net7.0\ShopProject_Models.dll
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_Models\bin\Debug\net7.0\ShopProject_Models.pdb
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_Models\obj\Debug\net7.0\ShopProject_Models.csproj.AssemblyReference.cache
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_Models\obj\Debug\net7.0\ShopProject_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_Models\obj\Debug\net7.0\ShopProject_Models.AssemblyInfoInputs.cache
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_Models\obj\Debug\net7.0\ShopProject_Models.AssemblyInfo.cs
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_Models\obj\Debug\net7.0\ShopProject_Models.csproj.CoreCompileInputs.cache
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_Models\obj\Debug\net7.0\ShopProject_Models.dll
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_Models\obj\Debug\net7.0\refint\ShopProject_Models.dll
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_Models\obj\Debug\net7.0\ShopProject_Models.pdb
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject_Models\obj\Debug\net7.0\ref\ShopProject_Models.dll

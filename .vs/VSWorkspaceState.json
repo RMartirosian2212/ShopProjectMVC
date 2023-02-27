@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ShopProject",
+    "\\ShopProject\\Areas",
+    "\\ShopProject\\Areas\\Identity",
+    "\\ShopProject\\Areas\\Identity\\Pages",
+    "\\ShopProject\\Areas\\Identity\\Pages\\Account",
+    "\\ShopProject\\Views",
+    "\\ShopProject\\Views\\Shared",
+    "\\ShopProject_DataAccess",
+    "\\ShopProject_DataAccess\\Repository",
+    "\\ShopProject_DataAccess\\Repository\\IRepository"
+  ],
+  "SelectedNode": "\\ShopProject\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+  "PreviewInSolutionExplorer": false
+}
