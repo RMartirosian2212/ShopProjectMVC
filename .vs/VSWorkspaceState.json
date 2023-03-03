@@ -6,12 +6,14 @@
     "\\ShopProject\\Areas\\Identity",
     "\\ShopProject\\Areas\\Identity\\Pages",
     "\\ShopProject\\Areas\\Identity\\Pages\\Account",
+    "\\ShopProject\\Controllers",
     "\\ShopProject\\Views",
     "\\ShopProject\\Views\\Shared",
     "\\ShopProject_DataAccess",
+    "\\ShopProject_DataAccess\\Initializer",
     "\\ShopProject_DataAccess\\Repository",
     "\\ShopProject_DataAccess\\Repository\\IRepository"
   ],
-  "SelectedNode": "\\ShopProject\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+  "SelectedNode": "\\ShopProject_DataAccess\\Initializer\\DbInitializer.cs",
   "PreviewInSolutionExplorer": false
 }

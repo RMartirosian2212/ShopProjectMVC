@@ -841,3 +841,5 @@ C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject\bin\Debu
 C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject\bin\Debug\net7.0\Braintree.dll
 C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
 C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject\bin\Debug\net7.0\Syncfusion.EJ2.dll
+C:\Users\flybe\OneDrive\Рабочий стол\ShopProject\ShopProject\bin\Debug\net7.0\Syncfusion.Licensing.dll
